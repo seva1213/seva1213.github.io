@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+}
+
+li {
+    font-size: 30px;
+    color: blueviolet;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.link-header {
+    font-size: 35px;
+    background-color: cyan;
+}
