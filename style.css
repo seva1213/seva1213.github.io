@@ -11,3 +11,8 @@ body {
 	background-color: cyan;
 	font-size: 40px;
 }
+
+li {
+	font-size: 25px;
+	color: blueviolet;
+}
